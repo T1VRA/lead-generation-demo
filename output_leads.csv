@@ -1,0 +1,24 @@
+Rank,Probability_Score,Name,Title,Company,Person_Location,Company_HQ,Email,Email_Source,LinkedIn_URL,Data_Source,Scientific_Keywords,Recent_Publication_Year,Funding_Status,Notes
+N/A,95.0,Alex Morgan,Director of Toxicology,HelixNova Therapeutics,"Cambridge, MA","Cambridge, MA",alex.morgan@helixnova.com,Synthetic,N/A,Synthetic,"Drug-induced liver injury, 3D hepatic models",N/A,Series B,Synthetic high-intent enterprise buyer
+N/A,92.0,Priya Desai,Head of Preclinical Safety,AxiomBio Labs,"Boston, MA","Boston, MA",priya.desai@axiombiotech.com,Synthetic,N/A,Synthetic,"Safety assessment, NAMs, liver toxicity",N/A,Series C,Synthetic senior decision-maker
+N/A,90.0,Jonathan Reed,VP Translational Sciences,NovaCure Biosciences,"South San Francisco, CA","South San Francisco, CA",jonathan.reed@novacurebio.com,Synthetic,N/A,Synthetic,"Translational toxicology, organ-on-chip",N/A,Series B,Synthetic VP-level buyer
+N/A,88.0,Elena Fischer,Director of Safety Assessment,RheinBioTech,"Basel, Switzerland","Basel, Switzerland",elena.fischer@rheinbiotech.com,Synthetic,N/A,Synthetic,"Hepatic safety, in-vitro toxicology",N/A,Private / Late-stage,Synthetic European hub buyer
+N/A,85.0,Michael O?Connor,"Senior Director, Investigative Toxicology",ArcPharma,"Cambridge, UK","Cambridge, UK",michael.oconnor@arcpharma.com,Synthetic,N/A,Synthetic,"Liver toxicity, preclinical safety models",N/A,Public Pharma,Synthetic enterprise pharma profile
+N/A,72.0,Sarah Lin,Principal Scientist ? Toxicology,VertaBio,"San Diego, CA","San Diego, CA",sarah.lin@vertabio.com,Synthetic,N/A,Synthetic,"3D spheroids, hepatotoxicity",N/A,Series A,Synthetic influencer-level buyer
+N/A,70.0,Rahul Mehta,"Associate Director, Preclinical Safety",Zenixa Therapeutics,"Jersey City, NJ","Boston, MA",rahul.mehta@zenixatx.com,Synthetic,N/A,Synthetic,"Preclinical safety, liver toxicity",N/A,Series A,Synthetic mid-level decision-maker
+N/A,68.0,Amrita Kapoor,Preclinical Research Lead,Helios Therapeutics,"Bangalore, India (Remote)","Boston, MA",amrita.kapoor@heliostx.com,Synthetic,N/A,Synthetic,"Preclinical research, hepatic models",N/A,Series B,Synthetic remote employee with HQ in hub
+N/A,65.0,Laura Bennett,Toxicology Program Lead,NorthStar Biologics,"Seattle, WA","Seattle, WA",laura.bennett@northstarbio.com,Synthetic,N/A,Synthetic,"Drug safety, in-vitro toxicology",N/A,Venture-backed,Synthetic user-level lead
+N/A,60.0,Daniel Cho,Senior Scientist ? Drug Safety,Orionyx Bio,"Palo Alto, CA","Palo Alto, CA",daniel.cho@orionyxbio.com,Synthetic,N/A,Synthetic,"Drug safety, 3D liver models",N/A,Seed / Series A,Synthetic early-stage biotech
+N/A,55.0,Tadahiro Shinozawa,Principal Investigator / Senior Researcher,Research Institute (Japan),Japan,Japan,N/A,N/A,N/A,PubMed,"Liver organoids, DILI screening",2020.0,Academic / Grant-funded,Highly cited real PubMed author
+N/A,52.0,Y. Kim,Research Scientist,Academic Institution,As per affiliation,Same,N/A,Not Available,N/A,PubMed,"Hepatotoxicity, in-vitro safety models",2025.0,Academic / Grant-funded,Real public PubMed review author
+N/A,50.0,Kevin Wu,Co-founder & CSO,MicroLiver Systems,"San Jose, CA","San Jose, CA",kevin.wu@microliversys.com,Synthetic,N/A,Synthetic,"Organ-on-chip, microphysiology systems",N/A,Seed,Synthetic founder with limited budget
+N/A,50.0,Martina ?tampar,Research Scientist / PI / Lead Author,National Institute of Biology,Slovenia,Slovenia,N/A,N/A,N/A,PubMed,"3D hepatic models, genetic toxicology",2024.0,Academic / Grant-funded,Academic / Grant-funded
+N/A,48.0,C. R. Cox,Research Scientist,Academic / Research Institute (as per affiliation),As per affiliation country,Same as above,N/A,N/A,N/A,PubMed,"DILI, 3D spheroid models",2021.0,Academic / Grant-funded,Real public profile from PubMed
+N/A,45.0,Sofia Alvarez,Lead Scientist,HepatoTech,"Madrid, Spain","Madrid, Spain",sofia.alvarez@hepatotech.eu,Synthetic,N/A,Synthetic,"Hepatic models, translational toxicology",N/A,Grant-funded,Synthetic academic?startup hybrid
+N/A,40.0,Thomas Berger,R&D Manager,BioPrint Labs,"Munich, Germany","Munich, Germany",thomas.berger@bioprintlabs.de,Synthetic,N/A,Synthetic,"3D bioprinting, liver tissue models",N/A,Seed,Synthetic early R&D buyer
+N/A,20.0,Emily Carter,Junior Scientist,EarlyPath Bio,"Austin, TX","Austin, TX",emily.carter@earlypathbio.com,Synthetic,N/A,Synthetic,"Cell assays, basic toxicology",N/A,Bootstrapped,Synthetic low-influence profile
+N/A,15.0,Noah Patel,Research Associate,UniSpin Labs,"Chicago, IL","Chicago, IL",noah.patel@unispinlabs.edu,Synthetic,N/A,Synthetic,Academic liver research,N/A,Academic spin-out,Synthetic non-commercial profile
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
